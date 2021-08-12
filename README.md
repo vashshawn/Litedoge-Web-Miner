@@ -1,4 +1,4 @@
-# I Dig Doge
+# Litedoge Web Scrypt Miner
 
 ## Getting Started
 
