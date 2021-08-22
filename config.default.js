@@ -26,7 +26,7 @@ module.exports = {
 	}
 	// The default port for the API server; it can also be set using the NODE_PORT or PORT environment variables, which will override this setting
 	, server: {
-		port: 9876
+		port: 17014
 	}
 	// It works on a predictive model, so configure these values appropriately for how much you have been making
 	, payouts: {
@@ -37,7 +37,7 @@ module.exports = {
 	// The pool you're connecting to; set active to false when developing so you don't constantly disconnect and reconnect
 	, stratum: {
 		host: ''
-		, port: 3333
+		, port: 17014
 		, username: ''
 		, password: ''
 		, active: true
